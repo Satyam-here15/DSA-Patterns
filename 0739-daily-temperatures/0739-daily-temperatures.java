@@ -1,3 +1,7 @@
+
+// Same logic as next greater Element--------------------------------
+
+
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
 
