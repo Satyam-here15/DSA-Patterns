@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
