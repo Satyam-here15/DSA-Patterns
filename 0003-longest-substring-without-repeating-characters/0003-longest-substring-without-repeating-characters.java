@@ -1,5 +1,5 @@
 class Solution {
-    public int lengthOfLongestSubstring(String s) {
+    public static int lengthOfLongestSubstring(String s) {
         if(s==null || s.isEmpty()){
             return 0;
         }
@@ -30,5 +30,12 @@ class Solution {
         int len = j-i;
         maxLen = Math.max(maxLen,len);
         return maxLen;
+    }
+
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+        int ans = lengthOfLongestSubstring(s);
+        System.out.println(ans);
     }
 }
