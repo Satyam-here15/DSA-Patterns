@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0739-daily-temperatures) |
 ## Stack
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0383-ransom-note](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
