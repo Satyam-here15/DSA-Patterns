@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0628-maximum-product-of-three-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
