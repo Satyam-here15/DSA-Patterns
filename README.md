@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -74,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
