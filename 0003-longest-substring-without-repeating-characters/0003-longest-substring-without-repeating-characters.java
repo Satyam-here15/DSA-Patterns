@@ -1,73 +1,41 @@
 class Solution {
     public static int lengthOfLongestSubstring(String s) {
-    //     if(s==null || s.isEmpty()){
-    //         return 0;
-    //     }
-    //     int n = s.length();
-
-        
-    //     HashSet<Character> set = new HashSet<>();
-        
-    //     int i=0, j=0, maxLen=1;
-        
-    //     while(j<n){
-    //         char ch = s.charAt(j);
-    //         if(!set.contains(ch)){
-    //             set.add(ch);
-    //             j++;
-    //         }
-    //         else{
-    //             int len = j-i;
-    //             maxLen = Math.max(maxLen,len);
-    //             while(s.charAt(i)!=s.charAt(j)){
-    //                 set.remove(s.charAt(i));
-    //                 i++;
-    //             }
-    //             i++;
-    //             j++;
-    //         }
-    //     }
-    //     int len = j-i;
-    //     maxLen = Math.max(maxLen,len);
-    //     return maxLen;
-    // }
-
-    // public static void main(String[] args){
-    //     Scanner sc = new Scanner(System.in);
-    //     String s = sc.nextLine();
-    //     int ans = lengthOfLongestSubstring(s);
-    //     System.out.println(ans);
-
-
-    if(s==null || s.isEmpty()){
-        return 0;
-    }
-    HashSet<Character> st = new HashSet<>();
-    int n = s.length();
-    int i=0,j=0,maxLen=1;
-
-
-    while(j<n){
-        char ch = s.charAt(j);
-        if(!st.contains(ch)){
-            st.add(ch);
-            j++;
+        if(s==null || s.isEmpty()){
+            return 0;
         }
-        else{
-            int len =j-i;
-            maxLen = Math.max(maxLen,len);
-            while(s.charAt(i) != s.charAt(j)){
-                st.remove(s.charAt(i));
-                i++;
-            }
-            i++;
-            j++;
-        } 
-     
+        int n = s.length();
+
         
-    }
-       int len = j-i;
+        HashSet<Character> set = new HashSet<>();
+        
+        int i=0, j=0, maxLen=1;
+        
+        while(j<n){
+            char ch = s.charAt(j);
+            if(!set.contains(ch)){
+                set.add(ch);
+                j++;
+            }
+            else{
+                int len = j-i;
+                maxLen = Math.max(maxLen,len);
+                while(s.charAt(i)!=s.charAt(j)){
+                    set.remove(s.charAt(i));
+                    i++;
+                }
+                i++;
+                j++;
+            }
+        }
+        int len = j-i;
         maxLen = Math.max(maxLen,len);
         return maxLen;
+    }
+
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+        int ans = lengthOfLongestSubstring(s);
+        System.out.println(ans);
     }
 }
