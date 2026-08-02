@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0079-word-search) |
 | [0503-next-greater-element-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0682-baseball-game) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
