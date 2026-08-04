@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0739-daily-temperatures) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0079-word-search) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
