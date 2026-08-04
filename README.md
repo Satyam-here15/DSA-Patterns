@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0079-word-search) |
 | [0503-next-greater-element-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0628-maximum-product-of-three-numbers) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0079-word-search) |
 ## Greedy
 |  |
