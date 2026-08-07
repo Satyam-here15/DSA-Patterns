@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0079-word-search) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0704-binary-search) |
