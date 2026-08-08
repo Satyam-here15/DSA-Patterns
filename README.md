@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0704-binary-search) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
