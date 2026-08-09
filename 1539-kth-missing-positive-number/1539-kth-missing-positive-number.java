@@ -25,6 +25,9 @@
 //     }
 // }
 
+//======================== ========BINARY SEARCH=====================================
+
+
 class Solution {
     public int findKthPositive(int[] arr, int k) {
 
@@ -33,8 +36,10 @@ class Solution {
 
         while (l <= r) {
             int mid = l + (r - l) / 2;
+            
+            int kitne_no_missing = arr[mid] - (mid+1);
 
-            if (arr[mid] - (mid + 1) < k) { //A[mid]-(mid+1)   --> This gives number of missing number before m'th index
+            if (kitne_no_missing < k) { //A[mid]-(mid+1)   --> This gives number of missing number before m'th index
                 l = mid + 1;
             } else {
                 r = mid - 1;
