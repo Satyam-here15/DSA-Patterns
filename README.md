@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1539-kth-missing-positive-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Queue
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
