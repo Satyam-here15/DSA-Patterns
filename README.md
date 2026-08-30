@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0179-largest-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0383-ransom-note) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0268-missing-number) |
