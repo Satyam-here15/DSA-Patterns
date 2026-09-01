@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0349-intersection-of-two-arrays) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -201,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
