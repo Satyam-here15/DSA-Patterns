@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
