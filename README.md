@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0682-baseball-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Queue
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Depth-First Search
 |  |
