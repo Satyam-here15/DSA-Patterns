@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0349-intersection-of-two-arrays) |
 ## Number Theory
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
