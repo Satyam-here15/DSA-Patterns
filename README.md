@@ -243,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0328-odd-even-linked-list) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
