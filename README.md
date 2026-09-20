@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0349-intersection-of-two-arrays) |
 ## Number Theory
 |  |
