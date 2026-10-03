@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1636-sort-array-by-increasing-frequency](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Satyam-here15/DSA-Patterns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Satyam-here15/DSA-Patterns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam-here15/DSA-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Satyam-here15/DSA-Patterns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0349-intersection-of-two-arrays) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Satyam-here15/DSA-Patterns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Number Theory
 |  |
 | ------- |
