@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0383-ransom-note) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Satyam-here15/DSA-Patterns/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Satyam-here15/DSA-Patterns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
